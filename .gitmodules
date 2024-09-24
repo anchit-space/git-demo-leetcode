@@ -1,0 +1,6 @@
+[submodule "leetcode-practice"]
+	path = leetcode-practice
+	url = git@github.com:anchit-space/leetcode-practice.git
+[submodule "git-test"]
+	path = git-test
+	url = git@github.com:anchit-space/git-test
